@@ -8,7 +8,7 @@ Meu contato com computadores foi muito novinho e sempre tive paixão e muita cur
 
 🎮 Gosto de Jogos no geral, mas meu gênero favorito é FPS e MMORPG e as vezes apareço pela [Twitch](https://www.twitch.tv/malfoy_mk)
 
-📚 Amo ler comumente prefiro light novels!
+📚 Amo ler comumente, prefiro light novels!
 
 
 ### Habilidades
