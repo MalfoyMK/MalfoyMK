@@ -28,4 +28,4 @@ Meu contato com computadores foi muito novinho e sempre tive paixão e muita cur
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lopes.patrick4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-lopes-mk3510/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MalfoyMK&theme=ocean-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MalfoyMK&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
